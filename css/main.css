@@ -88,7 +88,7 @@ body
 
 .section-1
 {
-    background-image: url("/image/Banner.webp");
+    background-image: url("image/Banner.webp");
     height: 90vh;
     background-repeat: no-repeat;
     background-size: cover;
